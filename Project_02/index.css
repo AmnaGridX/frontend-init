@@ -1,0 +1,32 @@
+html {
+    font-size: 19px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  
+  body {
+    background-color: #082436;
+    color: rgb(214, 113, 179);
+  }
+
+  a {
+    color:rgb(232, 29, 209);
+  }
+  
+  a:visited {
+    color:pink;
+  }
+  
+  a:hover, a:active {
+    color:#940af6;
+  }
+
+table, tr, th, td, caption {
+border: 1px solid #eee;
+font-family:'Times New Roman', Times, serif;
+border-collapse: collapse;
+padding:0.5rem;
+}
+
+button {
+  background-color:pink;
+}
